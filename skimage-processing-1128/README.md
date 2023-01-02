@@ -13,3 +13,7 @@
 ### scikit-image: image processing in Python
 
 ### https://peerj.com/articles/453/
+
+### Non-Max Suppression
+
+### https://www.analyticsvidhya.com/blog/2020/08/selecting-the-right-bounding-box-using-non-max-suppression-with-implementation/
